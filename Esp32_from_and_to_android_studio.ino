@@ -1,3 +1,9 @@
+//This project tell how to receive and send data between ESP32 and Android app.
+//also u can see on web by type the ip address
+//github : https://github.com/wiwidnadw
+//YouTube: Digitalneering (https://www.youtube.com/channel/UClxwaaJ-or0SJtlWMi3pHpA)
+//Line : wiwidnadw
+
 #include <WiFi.h>
 
 IPAddress ip(192, 168, 43, 150);
@@ -11,8 +17,8 @@ IPAddress dns(192, 168, 43, 1);
 #define led3 25
 
 
-const char* ssid     = "OPPO F7 128GB";
-const char* password = "12345678";
+const char* ssid     = "ur network";
+const char* password = "ur password";
 
 WiFiServer server(80);
 
