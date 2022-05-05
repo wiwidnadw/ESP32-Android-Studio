@@ -12,9 +12,9 @@ i already share how to build this project on my YouTube channel. U guys can supp
 
 I separate the video into 3 part :
 
-part 1 : Send data From Web to ESP32 (https://www.youtube.com/watch?v=SQEnwLWlVNw)
+part 1 : Send data From Web to ESP32 (https://youtu.be/8UWpnN-A0do)
 
-part 2 : Receive data on Web from ESP32 (https://www.youtube.com/watch?v=TKb8kqL9cpA)
+part 2 : Receive data on Web from ESP32 (https://youtu.be/PTqr-8-afkc)
 
-part 3 : Receive and send data ESP32 android app (https://www.youtube.com/watch?v=aEJ7orkRssI)
+part 3 : Receive and send data ESP32 android app (https://youtu.be/xBh8qh2zZ0k)
 
